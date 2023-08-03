@@ -1,0 +1,8 @@
+/* App.css */
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Add more custom styles as needed */
